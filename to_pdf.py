@@ -1,8 +1,9 @@
+# coding: utf-8
 import os
 import subprocess
 import argparse
 
-office_exes = ["/Applications/LibreOffice.app/Contents/MacOS/soffice", "/WIN"]
+office_exes = ["/Applications/LibreOffice.app/Contents/MacOS/soffice", "C:/Program Files (x86)/LibreOffice 5/program/soffice.exe"]
 
 
 def main():
